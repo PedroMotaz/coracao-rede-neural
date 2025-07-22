@@ -1,4 +1,4 @@
-Utilizei o dataset Heart Disease (Cleveland) e em base dos atributos ele prevê se o paciente tem ou não alguma doença
+Utilizei o dataset Heart Disease (Cleveland) e em base dos atributos ele prevê se o paciente tem ou não alguma doença utilizando o keras desta vez
 
 resultado
 
